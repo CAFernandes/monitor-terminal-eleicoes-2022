@@ -1,5 +1,5 @@
 <div style="clear:both; display:flex; flex-wrap: nowrap;> align-items: space-between; justify-content: space-evenly;">
-  <h1>Eleicoes 2022<h1>
+  <h1>Monitor Online No Terminal do Resultado das Eleicoes de 2022<h1>
   <img src="./images/golang-logo.png" width="100">
 </div>
 <p>Durante as eleições vi algumas postagens sobre o consumo da API para captura do resultado das eleições em tempo real.
